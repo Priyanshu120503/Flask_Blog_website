@@ -1,7 +1,7 @@
 # Flask_Blog_website
 
-Made using Flask.<br />
-SQL database is used to store blog and user data.<br />
+## Made using Flask.<br />
+## SQL database is used to store blog and user data.<br />
 
 ### Main Page
 ![home](https://github.com/Priyanshu120503/Flask_Blog_website/assets/103837992/2a062828-2af8-4ea1-821f-6c5ddc887236)
